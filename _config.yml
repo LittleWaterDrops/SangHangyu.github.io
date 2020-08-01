@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Hangyu Sang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "bio"
   location         : "Suwon, South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:nic6@naver.com"
+       #url: "mailto:nic6@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
