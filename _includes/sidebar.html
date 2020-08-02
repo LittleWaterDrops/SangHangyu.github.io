@@ -1,0 +1,40 @@
+<div class="sidebar">
+  <div class="container" style="color: #A4BCED; padding-top: 30px;">
+    <div class="sidebar-about" style="color: #E3E7EC">
+      <h1>
+        <img src="../images/logo_by_JYUN.png/">
+        <a href="{{ site.baseurl }}" style="color: #FFFFFF;font-size: 21px;">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      &nbsp;
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}"style="color: #3F5FA1">Home</a>
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            &nbsp;
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}"style="color: #3F5FA1">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      &nbsp;
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}" target="_blank" style="color: #3F5FA1">GitHub project</a>
+    </nav>
+  </div>
+  <div class="container sidebar-sticky"style="color: #A4BCED">
+    
+    <p style="font-size: small;">&copy; {{site.time | date: '%Y'}} Hangyu Sang. All rights reserved.</p>
+  </div>
+</div>
+
