@@ -10,7 +10,7 @@ title:            상 한규 / Hangyu Sang
 tagline:          'A Jekyll theme'
 description:      'Little water drops make Blue Whale'
 url:              'http://littlewaterdrops.github.io'
-baseurl:          ''
+baseurl:          /
 
 author:
   name:           'Hangyu Sang'
