@@ -8,7 +8,7 @@ gem:              [jekyll-paginate, jekyll-gists]
 # Setup
 title:            상 한규 / Hangyu Sang
 tagline:          ''
-description:      'Little water drops make Blue Whale'
+description:      'Little Waterdrops make Blue Whale'
 url:              'http://littlewaterdrops.github.io'
 baseurl:          /
 
