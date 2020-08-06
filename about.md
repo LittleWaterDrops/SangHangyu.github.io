@@ -12,7 +12,7 @@ title: Who's Me?
 학생 신분으로 많은 것에 관심을 갖는 중이며, 견목을 넓히는 중입니다. *"쉬지 않고 일하면 마침내 이루리라."*라는 신념을 갖고 제 관심 분야를 열심히 공부하는 중입니다. 
 
 ## PROFILE
-* adsf
+* junior in Electrical and Computer Engineering, Ajou University (South Korea)
 
 ## Interested in
 ## Advantages
