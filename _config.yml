@@ -1,13 +1,13 @@
 # Dependencies
 markdown:         kramdown
-rouge:      pygments
+rouge:            pygments
 
 # Permalinks
 permalink:        pretty
-gem: [jekyll-paginate, jekyll-gists]
+gem:              [jekyll-paginate, jekyll-gists]
 # Setup
 title:            상 한규 / Hangyu Sang
-tagline:          'A Jekyll theme'
+tagline:          ''
 description:      'Little water drops make Blue Whale'
 url:              'http://littlewaterdrops.github.io'
 baseurl:          /

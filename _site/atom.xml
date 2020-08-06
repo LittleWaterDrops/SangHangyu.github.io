@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>상 한규 / Hangyu Sang</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-08-06T17:34:43+09:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Hangyu Sang</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>First Post</title>
+   <link href="http://localhost:4000/anything/2020/07/31/first-post/"/>
+   <updated>2020-07-31T21:26:28+09:00</updated>
+   <id>http://localhost:4000/anything/2020/07/31/first-post</id>
+   <content type="html">&lt;p&gt;#First Post&lt;/p&gt;
+
+&lt;p&gt;This is some interesting!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
