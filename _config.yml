@@ -9,7 +9,7 @@ gem:              [jekyll-paginate, jekyll-gists]
 title:            상 한규 / Hangyu Sang
 tagline:          ''
 description:      'Little Waterdrops make Blue Whale'
-url:              'http://littlewaterdrops.github.io'
+url:              'https://littlewaterdrops.github.io'
 baseurl:          /
 
 author:
