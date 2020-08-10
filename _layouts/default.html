@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="en-us">
-
+<html lang="ko">
   {% include head.html %}
-
-  <body class="myOwn">
-
-    {% include sidebar.html %}
-
-    <div class="content container">
-      {{ content }}
-    </div>
-
+  <body>
+    {% include navbar.html %}
+    <section class="hyde main">
+      {% unless page.url == "/" %} {% include header.html %}
+      <div class="hyde container">
+        {{ content }}
+      </div>
+      {% else %} {{ content }} {% endunless %}
+    </section>
+    {% include footer.html %}
   </body>
 </html>
