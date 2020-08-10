@@ -1,3 +1,18 @@
-- title: 아비스 네트워크 로고
-  description: 마인크래프트 서버 아비스 네트워크 로고를 디자인하였습니다.
-  image: avis-logo.png
+- title: 시강 마스코트
+  description: 시강의 귀여운 마스코트, 부엉이입니다.
+  image: 부엉이.png
+- title: 시강 인형가족-아버지
+  description: 시강의 인형가족의 아버지, 스티브입니다.
+  image: 스티브.png
+- title: 시강 인형가족-어머니
+  description: 시강의 인형가족의 어머니, 유자입니다.
+  image: 유자.png
+- title: 시강 인형가족-첫째
+  description: 시강의 인형가족의 첫째 자식, 알렉스입니다.
+  image: 알렉스.png
+- title: 시강 인형가족-둘째
+  description: 시강의 인형가족의 둘째 자식, 망둥이입니다.
+  image: 망둥이.png
+- title: 시강 인형가족-막내
+  description: 시강의 인형가족의 막내, 라빈이입니다.
+  image: 라빈이.png
