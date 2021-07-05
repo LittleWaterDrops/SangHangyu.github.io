@@ -37,7 +37,7 @@ author: 상 한규
 
 ![screenshot](/assets/images/posts/blockchain 1/1.png)
 
-<블록체인과 레고블록>
+(<)블록체인과 레고블록(>)
 
 ## 블록체인과 블록
 블록체인이란 마치 사슬과 같이 블록들이 모여있는 형태를 이야기한다. 쉽게 생각해보자. 블록을 레고의 한 블록이라고 생각하고, 블록체인은 레고 블록을 일렬로 위를 향하게 쭉 쌓은 것이라고 생각하면 편하다. 여기서 블록은 어떤 정보를 가지고 있는 것이며, 그리하여 블록체인은 데이터가 서로 묶여있는 데이터베이스가 되는 것이다. 즉, 현재 블록에서는 사슬처럼 연결되어 있는 이전블록의 정보를 가지고 있어야하며, 그러한 블록들은 서로 연관성을 가져, 하나의 블록의 정보가 바뀌면 모든 정보가 바뀌는 것이다. 만약 누가 임의로 레고 블록와 다른 블록이 접합되어 있는 구멍의 형태나 볼록 튀어나와있는 (구멍에 끼우는) 형태를 바꾸려고 한다면, 일렬로 쌓인 모든 레고 블록이 변해야 할 것이다. 여기서 알 수 있듯이 블록은 이전 블록와 연결되기 위해 어떠한 정보가 필요하며, 블록 자체의 정보도 필요하다. 그러한 정보가 무엇인지 알기 위해서는 '해시'('hash')라는 것에 대하여 알고 넘어가야 한다.
@@ -46,7 +46,7 @@ author: 상 한규
 
 ![screenshot](/assets/images/posts/blockchain 1/2.png)
 
-<해시 함수>
+(<)해시 함수(>)
 
 ## 해시(Hash)란?
 해시란 어떠한 규칙에 의하여 하나의 정보를 다른 형태로 변경해주는 것을 뜻한다. 예를 들어, 'I am groot'라는 문장을 해시로 표현하면 '1002948a27189f9c3'등으로 나타낼 수 있다는 것이다. 단, 'I am grooz'라는 문장을 해시로 표현하면 완전히 다른 값으로 나타난다. groot에서 grooz로 한 단어가 변했지만 결과는 완전히 다른 것이다. 하지만 항상 같은 문장에서는 같은 해시로 표현되며, 이를 '결정론적'이라고 한다.
@@ -63,7 +63,8 @@ author: 상 한규
 
 ![screenshot](/assets/images/posts/blockchain 1/3.jpg)
 
-<블록체인 채굴 / “中 비트코인 채굴자들, 전세계 해시율 66% 차지하고 있다 - 비트와이드”[웹사이트], (2021.07.05), https://www.bitwide.co.kr/news/news_view.php?uData=ZXhlTW9kZSUzRHZpZXclMjZpZHglM0QyMTAz.>
+
+(<)블록체인 채굴 / “中 비트코인 채굴자들, 전세계 해시율 66% 차지하고 있다 - 비트와이드”[웹사이트], (2021.07.05), https://www.bitwide.co.kr/news/news_view.php?uData=ZXhlTW9kZSUzRHZpZXclMjZpZHglM0QyMTAz.(>)
 
 ## 어떻게 블록체인으로 돈을 벌까?
 블록체인은 외부에서 정보를 확인하기 어렵다고 설명하였다. 또한, 블록체인은 블록들이 사슬과 같은 형태로 묶인 데이터베이스라고 이야기하였다. 단, 정보를 확인할 수 있고, 블록을 사슬과 같은 형태로 묶어줄 수 있는 자가 존재한다. 이는 우리가 흔히 부르는 '채굴자'다. 
@@ -75,7 +76,7 @@ author: 상 한규
 
 ![screenshot](/assets/images/posts/blockchain 1/4.jpg)
 
-<블록체인 채굴 / “What is Proof-of-Work”[웹사이트], (2021.07.05), https://www.ledger.com/academy/blockchain/what-is-proof-of-work.>
+(<)블록체인 채굴 / “What is Proof-of-Work”[웹사이트], (2021.07.05), https://www.ledger.com/academy/blockchain/what-is-proof-of-work.(>)
 
 ## 작업증명의 방식
 작업증명은 다음과 같은 방식으로 이루어진다. 
