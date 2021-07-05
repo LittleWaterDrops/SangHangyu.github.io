@@ -1,6 +1,6 @@
 ---
 title: 기술 탐구 1. 블록체인과 비트코인, 어떻게 돈이 될까?
-tags: [tech, block_chain]
+tags: [tech, block-chain]
 author: 상 한규
 ---
 # 블록체인의 이해, 비트코인을 버는 방법
