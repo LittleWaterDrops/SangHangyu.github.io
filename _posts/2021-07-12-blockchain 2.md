@@ -41,7 +41,7 @@ author: 상 한규
 ![screenshot](/assets/images/posts/blockchain 2/1.png)
 
 <figcaption style="text-align:center; font-size:15px; color:#808080">
-블록체인과 레고블록
+블록체인 기술 적용 원리 / “[Smart Contract] 쉽게 설명하는 스마트 컨트렉트”[웹사이트], (2021.07.12), https://steemit.com/kr/@skt/smart-contract.
 </figcaption>
 
 ## 스마트 컨트랙
